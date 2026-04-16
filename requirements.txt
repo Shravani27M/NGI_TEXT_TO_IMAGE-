@@ -1,0 +1,9 @@
+streamlit
+transformers==4.57.5
+diffusers
+torch
+torchvision
+accelerate
+safetensors
+Pillow
+scipy
