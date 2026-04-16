@@ -1,9 +1,6 @@
-streamlit
-transformers==4.57.5
 diffusers
+transformers
 torch
-torchvision
 accelerate
 safetensors
 Pillow
-scipy
